@@ -13,7 +13,7 @@ GraphQL React Client Side Pizza Order
  - Manage Your Cart : Delete/Add pizzas
  - Enjoy the Yummy Pizzas
 
-To run locally
+To run locally you need to have node installed.
  - clone the repo
  - cd PizzaOder && npm install
  - npm start 
