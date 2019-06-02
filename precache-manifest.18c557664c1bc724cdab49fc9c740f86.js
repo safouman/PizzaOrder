@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b8b7705161f15e5998ce",
+    "revision": "13ce0a98bf1c7bc6b4fe",
     "url": "/PizzaOrder/static/css/main.2b72526c.chunk.css"
   },
   {
-    "revision": "b8b7705161f15e5998ce",
-    "url": "/PizzaOrder/static/js/main.37a16e50.chunk.js"
+    "revision": "13ce0a98bf1c7bc6b4fe",
+    "url": "/PizzaOrder/static/js/main.cbf3c836.chunk.js"
   },
   {
     "revision": "f73ea2cbb91e5348763f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/PizzaOrder/static/js/2.c381d7e0.chunk.js"
   },
   {
-    "revision": "b4815e6aa1da561470a2c58a6a2d4d2b",
+    "revision": "17dc7baeaa2775859fdbb7d349aea1cc",
     "url": "/PizzaOrder/index.html"
   }
 ];
