@@ -6,7 +6,7 @@
 
 # PizzaOrder
 GraphQL React Client Side Pizza Order
-[ONLINE DEMO](https://travis-ci.org/joemccann/dillinger)
+[ONLINE DEMO](https://safouman.github.io/PizzaOrder/)
  - Select Pizza Size
  - Select Your Toppings
  - Add Pizza To Cart
