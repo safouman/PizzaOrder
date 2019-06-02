@@ -1,13 +1,13 @@
 {
   "main.css": "/PizzaOrder/static/css/main.2b72526c.chunk.css",
-  "main.js": "/PizzaOrder/static/js/main.cbf3c836.chunk.js",
-  "main.js.map": "/PizzaOrder/static/js/main.cbf3c836.chunk.js.map",
+  "main.js": "/PizzaOrder/static/js/main.272de0f3.chunk.js",
+  "main.js.map": "/PizzaOrder/static/js/main.272de0f3.chunk.js.map",
   "runtime~main.js": "/PizzaOrder/static/js/runtime~main.ddfae4f8.js",
   "runtime~main.js.map": "/PizzaOrder/static/js/runtime~main.ddfae4f8.js.map",
   "static/js/2.c381d7e0.chunk.js": "/PizzaOrder/static/js/2.c381d7e0.chunk.js",
   "static/js/2.c381d7e0.chunk.js.map": "/PizzaOrder/static/js/2.c381d7e0.chunk.js.map",
   "index.html": "/PizzaOrder/index.html",
-  "precache-manifest.18c557664c1bc724cdab49fc9c740f86.js": "/PizzaOrder/precache-manifest.18c557664c1bc724cdab49fc9c740f86.js",
+  "precache-manifest.03e4cf421ed15b102a04d405bab2b6a5.js": "/PizzaOrder/precache-manifest.03e4cf421ed15b102a04d405bab2b6a5.js",
   "service-worker.js": "/PizzaOrder/service-worker.js",
   "static/css/main.2b72526c.chunk.css.map": "/PizzaOrder/static/css/main.2b72526c.chunk.css.map"
 }
