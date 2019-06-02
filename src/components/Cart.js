@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+<<<<<<< HEAD
+=======
+import PizzaList from './PizzaList';
+>>>>>>> Topping List and selection
 
 class Cart extends Component {
     constructor(props) {
