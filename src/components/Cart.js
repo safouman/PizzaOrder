@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PizzaList from './PizzaList';
 
 class Cart extends Component {
     constructor(props) {
